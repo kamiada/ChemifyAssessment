@@ -9,3 +9,5 @@ Hello!
 7.
 
 To run the app: Place in one folder frontend and api. Run Api first, then frontend.
+
+![Crossing GIF](gifs/crossing.gif)
